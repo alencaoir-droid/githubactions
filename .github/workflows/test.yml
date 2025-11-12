@@ -1,5 +1,5 @@
 name: teste dessa merda 
-on: nesse caralho 
+on: push
 jobs: 
   test: 
     runs-on: ubuntu-latest 
